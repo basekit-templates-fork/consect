@@ -1,5 +1,5 @@
 {
-    "name": "Sign",
+    "name": "Consect",
     "widgetVersion":2,
     "thumbnail": "thumbnail.png",
     "screenshot": "sign-screenshot.jpg",
@@ -20,16 +20,16 @@
     "colorSwatches":
     {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#44bfc9",
-            "color3":"#44bfc9",
+            "color1":"#fefef6",
+            "color2":"#49BDE0",
+            "color3":"#49BDE0",
             "color4":"#505050",
             "color5":"#8a9191",
             "color6":"#afb6b6",
-            "color7":"#dddddd"
+            "color7":"#DAEAEA"
         },
         "Swatch 2": {
-            "color1":"#f1f1f1",
+            "color1":"#f7f7f7",
             "color2":"#f57878",
             "color3":"#f57878",
             "color4":"#505050",
