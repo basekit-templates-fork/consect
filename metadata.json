@@ -2,7 +2,6 @@
     "name": "Consect",
     "widgetVersion":2,
     "thumbnail": "thumbnail.png",
-    "screenshot": "consect-screenshot.jpg",
     "templateType":"ecommerce",
     "pageTypes": ["home"],
     "tags": {
