@@ -2,6 +2,7 @@
     "name": "Consect",
     "widgetVersion":2,
     "thumbnail": "thumbnail.png",
+    "screenshot": "consect-screenshot.jpg",
     "templateType":"ecommerce",
     "pageTypes": ["home"],
     "tags": {
@@ -25,7 +26,7 @@
             "color4":"#505050",
             "color5":"#8a9191",
             "color6":"#afb6b6",
-            "color7":"#94948C"
+            "color7":"#BDC7C7"
         },
         "Swatch 2": {
             "color1":"#f7f7f7",
